@@ -29,5 +29,13 @@
 
 A)basma farag : about me
 
+B)youssef abadir : about me ,
+
+C)nayera ezzat : about me
+			  
+D)karim abdel-qader : about me
+
+
+
 
 
